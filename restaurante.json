@@ -1,0 +1,18 @@
+[{
+  'id': '1',
+  'name': 'Restaurant A',
+  'address': 'Cra 45 ###59-2 a 59-78, Bogotá',
+  'category': 'Cigarreria',
+  'phone': '+573016836455',
+  'whatsapp': '573016836455',
+  'image': 'https://github.com/joniliu/uxai-nonni-db/blob/master/restaurante/restaurante_1.png'
+},
+{
+  'id': '2',
+  'name': 'Restaurant B',
+  'address': 'Carrera 36A, Calle 57B, Local 1, Bogotá',
+  'category': 'Supermercado',
+  'phone': '+573115632278',
+  'whatsapp': '573115632278',
+  'image': 'https://github.com/joniliu/uxai-nonni-db/blob/master/restaurante/restaurante_2.png'
+}]
