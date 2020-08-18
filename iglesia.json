@@ -1,16 +1,16 @@
 [{
-  'id': '1',
-  'name': 'Parroquia Corpus Christi',
-  'address': '4.648284, -74.082246',
-  'youtube': 'https://www.youtube.com/channel/UCXKPPgL1PPGT2tjDCRCmaIg',
-  'broadcast': 'Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00, Sa 12:00, Su 12:00',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_1.png'
+  "id": "1",
+  "name": "Parroquia Corpus Christi",
+  "address": "4.648284, -74.082246",
+  "youtube": "https://www.youtube.com/channel/UCXKPPgL1PPGT2tjDCRCmaIg",
+  "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00, Sa 12:00, Su 12:00",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_1.png"
 },
 {
-  'id': '2',
-  'name': 'Parroquia San Mateo',
-  'address': '4.677496, -74.078733',
-  'youtube': 'https://www.youtube.com/channel/UCAktlGjgvmJFPMKWQlg1xfw',
-  'broadcast': 'Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_2.png'
+  "id": "2",
+  "name": "Parroquia San Mateo",
+  "address": "4.677496, -74.078733",
+  "youtube": "https://www.youtube.com/channel/UCAktlGjgvmJFPMKWQlg1xfw",
+  "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_2.png"
 }]

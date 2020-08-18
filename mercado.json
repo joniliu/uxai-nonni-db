@@ -1,90 +1,90 @@
 [{
-  'id': '1',
-  'name': 'Nicolman Cigarreria',
-  'address': 'Cra 45 ###59-2 a 59-78, Bogotá',
-  'category': 'Cigarreria',
-  'phone': '+573016836455',
-  'whatsapp': '573016836455',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_1.png'
+  "id": "1",
+  "name": "Nicolman Cigarreria",
+  "address": "Cra 45 ###59-2 a 59-78, Bogotá",
+  "category": "Cigarreria",
+  "phone": "+573016836455",
+  "whatsapp": "573016836455",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_1.png"
 },
 {
-  'id': '2',
-  'name': 'Mr Cajun',
-  'address': 'Carrera 36A, Calle 57B, Local 1, Bogotá',
-  'category': 'Supermercado',
-  'phone': '+573115632278',
-  'whatsapp': '573115632278',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_2.png'
+  "id": "2",
+  "name": "Mr Cajun",
+  "address": "Carrera 36A, Calle 57B, Local 1, Bogotá",
+  "category": "Supermercado",
+  "phone": "+573115632278",
+  "whatsapp": "573115632278",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_2.png"
 },
 {
-  'id': '3',
-  'name': 'Super Tienda Dubai',
-  'address': 'Cl. 57 ###37 06, Bogotá',
-  'category': 'Supermercado',
-  'phone': '+573213538226',
-  'whatsapp': '573213538226',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_3.png'
+  "id": "3",
+  "name": "Super Tienda Dubai",
+  "address": "Cl. 57 ###37 06, Bogotá",
+  "category": "Supermercado",
+  "phone": "+573213538226",
+  "whatsapp": "573213538226",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_3.png"
 },
 {
-  'id': '4',
-  'name': 'Cigarreria La Sirena ',
-  'address': 'Cra. 38 #14, Bogotá',
-  'category': 'Cigarreria',
-  'phone': '+5713155939',
-  'whatsapp': '-',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_4.png'
+  "id": "4",
+  "name": "Cigarreria La Sirena ",
+  "address": "Cra. 38 #14, Bogotá",
+  "category": "Cigarreria",
+  "phone": "+5713155939",
+  "whatsapp": "-",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_4.png"
 },
 {
-  'id': '5',
-  'name': 'Viveres Lina Maria',
-  'address': '4.644595, -74.082105',
-  'category': 'Cigarreria',
-  'phone': '+573118382541',
-  'whatsapp': '573118382541',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_5.png'
+  "id": "5",
+  "name": "Viveres Lina Maria",
+  "address": "4.644595, -74.082105",
+  "category": "Cigarreria",
+  "phone": "+573118382541",
+  "whatsapp": "573118382541",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_5.png"
 },
 {
-  'id': '6',
-  'name': 'Panaderia Pasteleria Fenix',
-  'address': '4.647203, -74.079038',
-  'category': 'Panaderia',
-  'phone': '+5712215471',
-  'whatsapp': '-',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_6.png'
+  "id": "6",
+  "name": "Panaderia Pasteleria Fenix",
+  "address": "4.647203, -74.079038",
+  "category": "Panaderia",
+  "phone": "+5712215471",
+  "whatsapp": "-",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_6.png"
 },
 {
-  'id': '7',
-  'name': 'Cigarreria Federman',
-  'address': '4.649688, -74.079203',
-  'category': 'Cigarreria',
-  'phone': '+5712214025',
-  'whatsapp': '-',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_7.png'
+  "id": "7",
+  "name": "Cigarreria Federman",
+  "address": "4.649688, -74.079203",
+  "category": "Cigarreria",
+  "phone": "+5712214025",
+  "whatsapp": "-",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_7.png"
 },
 {
-  'id': '8',
-  'name': 'Servimarket Pili',
-  'address': '4.650397, -74.080671',
-  'category': 'Supermercado',
-  'phone': '+573209747368',
-  'whatsapp': '573209747368',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_8.png'
+  "id": "8",
+  "name": "Servimarket Pili",
+  "address": "4.650397, -74.080671",
+  "category": "Supermercado",
+  "phone": "+573209747368",
+  "whatsapp": "573209747368",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_8.png"
 },
 {
-  'id': '9',
-  'name': 'Cigarreria la Isla',
-  'address': '4.651522, -74.080232',
-  'category': 'Cigarreria',
-  'phone': '+573132654691',
-  'whatsapp': '573132654691',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_9.png'
+  "id": "9",
+  "name": "Cigarreria la Isla",
+  "address": "4.651522, -74.080232",
+  "category": "Cigarreria",
+  "phone": "+573132654691",
+  "whatsapp": "573132654691",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_9.png"
 },
 {
-  'id': '10',
-  'name': 'Drogueria J y O',
-  'address': '4.651613, -74.080334',
-  'category': 'Drogueria',
-  'phone': '+5712219278',
-  'whatsapp': '5712219278',
-  'image': 'https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_10.png'
+  "id": "10",
+  "name": "Drogueria J y O",
+  "address": "4.651613, -74.080334",
+  "category": "Drogueria",
+  "phone": "+5712219278",
+  "whatsapp": "5712219278",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_10.png"
 }]
