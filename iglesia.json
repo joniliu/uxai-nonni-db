@@ -13,4 +13,52 @@
   "youtube": "https://www.youtube.com/channel/UCAktlGjgvmJFPMKWQlg1xfw",
   "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_2.png"
+}, 
+{
+  "id": "3",
+  "name": "Iglesia Santa Teresita Del Niño Jesús",
+  "address": "4.609389, -74.094584",
+  "youtube": "https://www.youtube.com/c/IglesiaSantaTeresitaBogot%C3%A1/videos",
+  "broadcast": "TBD",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_3.png"
+}, 
+{
+  "id": "4",
+  "name": "Parroquia Santa Marta Arquidiócesis de Bogotá",
+  "address": "4.639582, -74.072497",
+  "youtube": "https://www.youtube.com/channel/UCaPLgDK7Rh8sm8_7zlYIzsQ",
+  "broadcast": "Lunes 6PM - Martes 7AM 12PM 6PM - Miercoles 6PM - Jueves 6PM - Viernes 6PM - Sabado 6PM - Domingo 10AM 12PM ",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_4.png"
+},
+{
+  "id": "5",
+  "name": "Parroquia Santa María Soledad Torres Acosta Bogotá",
+  "address": "4.606059, -74.103252",
+  "youtube": "https://www.youtube.com/channel/UCn-dgrFysxapjFGhQl4zc1g/videos",
+  "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_5.png"
+}, 
+{
+  "id": "6",
+  "name": "Parroquia Ntra. Sra. De Chiquinquira P. Dominicos",
+  "address": "4.638507, -74.065321",
+  "youtube": "https://www.youtube.com/channel/UCxMjUZvPvp4dx2tx5Iyfl9g/videos",
+  "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_6.png"
+},
+{
+  "id": "7",
+  "name": "Parroquia de Cristo Rey Bogotá",
+  "address": "4.684403, -74.050938",
+  "youtube": "https://www.youtube.com/c/ParroquiadeCristoReyBogot%C3%A1/videos",
+  "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_7.png"
+}, 
+{
+  "id": "8",
+  "name": "Parroquia San Ignacio de Loyola - Quiroga Bogotá",
+  "address": "4.581706, -74.113847",
+  "youtube": "https://www.youtube.com/channel/UCjCdEyLafDkpWFWoKqwSakg/videos",
+  "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_8.png"  
 }]
