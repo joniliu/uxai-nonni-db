@@ -61,4 +61,36 @@
   "youtube": "https://www.youtube.com/channel/UCjCdEyLafDkpWFWoKqwSakg/videos",
   "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_8.png"  
+},
+{
+  "id": "9",
+  "name": "Parroquia San Pío X Frailes Carmelitas Descalzos",
+  "address": "4.625325, -74.138864",
+  "youtube": "https://www.youtube.com/channel/UC7PWuapbCy6zL6K_G_VDquQ/videos",
+  "broadcast": "TBD",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_9.png"  
+},
+{
+  "id": "10",
+  "name": "Parroquia Nuestra Señora de las Lajas",
+  "address": "4.599435, -74.101331",
+  "youtube": "https://www.youtube.com/channel/UCnhvo_zJfd6qjUdvHxVVbQg/videos",
+  "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_10.png"  
+},
+{
+  "id": "11",
+  "name": "Padre Cucho",
+  "address": "4.637881, -74.141697",
+  "youtube": "https://www.youtube.com/c/PadreChuchoCol/videos",
+  "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_11.png"  
+},
+{
+  "id": "12",
+  "name": "Vatican news",
+  "address": "Europe",
+  "youtube": "https://www.youtube.com/c/VaticanNewsES/videos",
+  "broadcast": "TBD",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_12.png"  
 }]
