@@ -4,7 +4,8 @@
   "address": "4.648284, -74.082246",
   "youtube": "https://www.youtube.com/channel/UCXKPPgL1PPGT2tjDCRCmaIg",
   "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00, Sa 12:00, Su 12:00",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_1.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_1.png",
+  "background-color": "#66ff66"
 },
 {
   "id": "2",
