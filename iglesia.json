@@ -5,7 +5,7 @@
   "youtube": "https://www.youtube.com/channel/UCXKPPgL1PPGT2tjDCRCmaIg",
   "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00, Sa 12:00, Su 12:00",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_1.png",
-  "background": "#F9C032"
+  "background": "#4352A2"
 },
 {
   "id": "2",
@@ -14,7 +14,7 @@
   "youtube": "https://www.youtube.com/channel/UCAktlGjgvmJFPMKWQlg1xfw",
   "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_2.png",
-  "background": "#EE583B"
+  "background": "#EE5739"
 }, 
 {
   "id": "3",
@@ -23,7 +23,7 @@
   "youtube": "https://www.youtube.com/c/IglesiaSantaTeresitaBogot%C3%A1/videos",
   "broadcast": "TBD",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_3.png",
-  "background": "#4452A3"
+  "background": "#D55950"
 }, 
 {
   "id": "4",
@@ -32,7 +32,7 @@
   "youtube": "https://www.youtube.com/channel/UCaPLgDK7Rh8sm8_7zlYIzsQ",
   "broadcast": "Lunes 6PM - Martes 7AM 12PM 6PM - Miercoles 6PM - Jueves 6PM - Viernes 6PM - Sabado 6PM - Domingo 10AM 12PM ",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_4.png",
-  "background": "#66ff66"
+  "background": "#B15461"
 },
 {
   "id": "5",
@@ -41,7 +41,7 @@
   "youtube": "https://www.youtube.com/channel/UCn-dgrFysxapjFGhQl4zc1g/videos",
   "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_5.png",
-  "background": "#66ff66"
+  "background": "#8D567A"
 }, 
 {
   "id": "6",
