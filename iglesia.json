@@ -5,7 +5,7 @@
   "youtube": "https://www.youtube.com/channel/UCXKPPgL1PPGT2tjDCRCmaIg",
   "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00, Sa 12:00, Su 12:00",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_1.png",
-  "background": "#66ff66"
+  "background": "#F9C032"
 },
 {
   "id": "2",
@@ -14,7 +14,7 @@
   "youtube": "https://www.youtube.com/channel/UCAktlGjgvmJFPMKWQlg1xfw",
   "broadcast": "Mo 12:00, Tu 12:00, We 12:00, Th 12:00, Fr 12:00",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_2.png",
-  "background": "#6666ff"
+  "background": "#EE583B"
 }, 
 {
   "id": "3",
@@ -23,7 +23,7 @@
   "youtube": "https://www.youtube.com/c/IglesiaSantaTeresitaBogot%C3%A1/videos",
   "broadcast": "TBD",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_3.png",
-  "background": "#6666ff"
+  "background": "#4452A3"
 }, 
 {
   "id": "4",
