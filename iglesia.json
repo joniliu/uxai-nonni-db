@@ -5,7 +5,7 @@
   "youtube": "https://www.youtube.com/channel/UCXKPPgL1PPGT2tjDCRCmaIg",
   "broadcast": "Todos los días al medio media",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_1.png",
-  "background": "#4352A2"
+  "background": "#F29EBD"
 },
 {
   "id": "2",
@@ -14,7 +14,7 @@
   "youtube": "https://www.youtube.com/channel/UCAktlGjgvmJFPMKWQlg1xfw",
   "broadcast": "De Lunes a Viernes a las 6PM",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_2.png",
-  "background": "#EE5739"
+  "background": "#FCD667"
 }, 
 {
   "id": "3",
@@ -23,7 +23,7 @@
   "youtube": "https://www.youtube.com/c/IglesiaSantaTeresitaBogot%C3%A1/videos",
   "broadcast": "TBD",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_3.png",
-  "background": "#D55950"
+  "background": "#69C2D3"
 }, 
 {
   "id": "4",
@@ -32,7 +32,7 @@
   "youtube": "https://www.youtube.com/channel/UCaPLgDK7Rh8sm8_7zlYIzsQ",
   "broadcast": "Lunes a Sábado a las 6PM, y Domingo a las 10AM y 12PM",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_4.png",
-  "background": "#B15461"
+  "background": "#E98E65"
 },
 {
   "id": "5",
@@ -41,7 +41,7 @@
   "youtube": "https://www.youtube.com/channel/UCn-dgrFysxapjFGhQl4zc1g/videos",
   "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_5.png",
-  "background": "#8D567A"
+  "background": "#7AB7B7"
 }, 
 {
   "id": "6",
@@ -50,7 +50,7 @@
   "youtube": "https://www.youtube.com/channel/UCxMjUZvPvp4dx2tx5Iyfl9g/videos",
   "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_6.png",
-  "background": "#66ff66"
+  "background": "#D84537"
 },
 {
   "id": "7",
@@ -59,7 +59,7 @@
   "youtube": "https://www.youtube.com/c/ParroquiadeCristoReyBogot%C3%A1/videos",
   "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_7.png",
-  "background": "#66ff66"
+  "background": "#87D56C"
 }, 
 {
   "id": "8",
@@ -77,7 +77,7 @@
   "youtube": "https://www.youtube.com/channel/UC7PWuapbCy6zL6K_G_VDquQ/videos",
   "broadcast": "Todos los dias a las 6:30PM",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_9.png",
-  "background": "#66ff66"
+  "background": "#E4C4E7"
 },
 {
   "id": "10",
@@ -86,7 +86,7 @@
   "youtube": "https://www.youtube.com/channel/UCnhvo_zJfd6qjUdvHxVVbQg/videos",
   "broadcast": "Todos los dias al medio día",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_10.png",
-  "background": "#66ff66"  
+  "background": "#FEE77B"  
 },
 {
   "id": "11",
@@ -95,7 +95,7 @@
   "youtube": "https://www.youtube.com/c/PadreChuchoCol/videos",
   "broadcast": "Todos los dias a las 5AM",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_11.png",
-  "background": "#66ff66"  
+  "background": "#E4754F"  
 },
 {
   "id": "12",
@@ -104,5 +104,5 @@
   "youtube": "https://www.youtube.com/c/VaticanNewsES/videos",
   "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_12.png",
-  "background": "#66ff66"  
+  "background": "#3AADFB"  
 }]
