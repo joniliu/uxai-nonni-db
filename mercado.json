@@ -1,7 +1,7 @@
 [{
   "id": "1",
   "name": "Nicolman Cigarreria",
-  "address": "Cra 45 ###59-2 a 59-78, Bogotá",
+  "address": "4.650646, -74.082955",
   "category": "Cigarreria",
   "phone": "+573016836455",
   "whatsapp": "573016836455",
@@ -11,7 +11,7 @@
 {
   "id": "2",
   "name": "Mr Cajun",
-  "address": "Carrera 36A, Calle 57B, Local 1, Bogotá",
+  "address": "4.647998, -74.081475",
   "category": "Supermercado",
   "phone": "+573115632278",
   "whatsapp": "573115632278",
@@ -21,7 +21,7 @@
 {
   "id": "3",
   "name": "Super Tienda Dubai",
-  "address": "Cl. 57 ###37 06, Bogotá",
+  "address": "4.646802, -74.081999",
   "category": "Supermercado",
   "phone": "+573213538226",
   "whatsapp": "573213538226",
@@ -30,7 +30,7 @@
 {
   "id": "4",
   "name": "Cigarreria La Sirena ",
-  "address": "Cra. 38 #14, Bogotá",
+  "address": "4.646259, -74.082924",
   "category": "Cigarreria",
   "phone": "+5713155939",
   "whatsapp": "-",
