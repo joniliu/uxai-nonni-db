@@ -16,7 +16,7 @@
   "phone": "+573115632278",
   "whatsapp": "573115632278",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_2.png",
-  "background": "#F9C032"
+  "background": "#1F7ED4"
 },
 {
   "id": "3",
@@ -25,7 +25,8 @@
   "category": "Supermercado",
   "phone": "+573213538226",
   "whatsapp": "573213538226",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_1.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_1.png",
+  "background": "#ED462F"
 },
 {
   "id": "4",
@@ -34,7 +35,8 @@
   "category": "Cigarreria",
   "phone": "+5713155939",
   "whatsapp": "-",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_4.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_4.png",
+  "background": "#E78548"
 },
 {
   "id": "5",
@@ -43,7 +45,8 @@
   "category": "Cigarreria",
   "phone": "+573118382541",
   "whatsapp": "573118382541",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_5.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_5.png",
+  "background": "#D5BCFE"
 },
 {
   "id": "6",
@@ -52,7 +55,8 @@
   "category": "Panaderia",
   "phone": "+5712215471",
   "whatsapp": "-",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_6.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_6.png",
+  "background": "#81BBC0"
 },
 {
   "id": "7",
@@ -61,7 +65,8 @@
   "category": "Cigarreria",
   "phone": "+5712214025",
   "whatsapp": "-",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_7.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_7.png",
+  "background": "#E78548"
 },
 {
   "id": "8",
@@ -70,7 +75,8 @@
   "category": "Supermercado",
   "phone": "+573209747368",
   "whatsapp": "573209747368",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_8.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_8.png",
+  "background": "#C14E47"
 },
 {
   "id": "9",
@@ -79,7 +85,8 @@
   "category": "Cigarreria",
   "phone": "+573132654691",
   "whatsapp": "573132654691",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_9.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_9.png",
+  "background": "#C79C52"
 },
 {
   "id": "10",
@@ -88,7 +95,8 @@
   "category": "Drogueria",
   "phone": "+5712219278",
   "whatsapp": "5712219278",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_10.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_10.png",
+  "background": "#E89346"
 },
 {
   "id": "11",
@@ -97,7 +105,8 @@
   "category": "Supermercado",
   "phone": "+5713150826",
   "whatsapp": "  ",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_11.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_11.png",
+  "background": "#E78548"
 },
 {
   "id": "12",
@@ -106,7 +115,8 @@
   "category": "Supermercado",
   "phone": "+5713158255",
   "whatsapp": "  ",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_12.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_12.png",
+  "background": "#87C4BB"
 },
 {
   "id": "13",
@@ -115,7 +125,8 @@
   "category": "Supermercado",
   "phone": "+573127790775",
   "whatsapp": "573127790775",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_13.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_13.png",
+  "background": "#87D56C"
 },
 {
   "id": "14",
@@ -124,7 +135,8 @@
   "category": "Cigarreria ",
   "phone": "+573138019058",
   "whatsapp": "573138019058",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_14.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_14.png",
+  "background": "#BEA4C0"
 },
 {
   "id": "15",
@@ -133,7 +145,8 @@
   "category": "Cigarreria ",
   "phone": "+573108637287",
   "whatsapp": "573108637287",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_15.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_15.png",
+  "background": "#F0765D"
 },
 {
   "id": "16",
@@ -142,5 +155,6 @@
   "category": "Supermercado",
   "phone": "+573223932999",
   "whatsapp": "573223932999",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_16.png"
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_16.png",
+  "background": "#FFE859"
 }]
