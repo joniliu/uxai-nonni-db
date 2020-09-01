@@ -89,4 +89,63 @@
   "phone": "+5712219278",
   "whatsapp": "5712219278",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_10.png"
-}]
+},
+{
+  "id": "11",
+  "name": "Mercaexpress MM",
+  "address": "4.642322, -74.088336",
+  "category": "Supermercado",
+  "phone": "+5713150826",
+  "whatsapp": "  ",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_11.png"
+},
+{
+  "id": "12",
+  "name": "Delicateces J R",
+  "address": "4.642264, -74.089747",
+  "category": "Supermercado",
+  "phone": "+5713158255",
+  "whatsapp": "  ",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_12.png"
+},
+{
+  "id": "13",
+  "name": "Supermarket JJ",
+  "address": "4.643197, -74.086989",
+  "category": "Supermercado",
+  "phone": "+573127790775",
+  "whatsapp": "573127790775",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_13.png"
+},
+{
+  "id": "14",
+  "name": "Cigarreria PP",
+  "address": "4.643619, -74.088750",
+  "category": "Cigarreria ",
+  "phone": "+573138019058",
+  "whatsapp": "573138019058",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_14.png"
+},
+{
+  "id": "15",
+  "name": "Las palmas",
+  "address": "4.646286, -74.088435",
+  "category": "Cigarreria ",
+  "phone": "+573108637287",
+  "whatsapp": "573108637287",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_15.png"
+},
+{
+  "id": "16",
+  "name": "Market express",
+  "address": "4.647430, -74.087570",
+  "category": "Supermercado",
+  "phone": "+573223932999",
+  "whatsapp": "573223932999",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_16.png"
+},
+
+
+
+
+]
