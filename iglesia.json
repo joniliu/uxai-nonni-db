@@ -2,7 +2,8 @@
   "id": "1",
   "name": "Corpus Christi",
   "address": "Peticiones: (1) 221 79 75",
-  "youtube": "https://www.youtube.com/channel/UCXKPPgL1PPGT2tjDCRCmaIg",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCXKPPgL1PPGT2tjDCRCmaIg",
+  "youtubeChannelID": "UCXKPPgL1PPGT2tjDCRCmaIg",
   "broadcast": "Todos los días al medio media",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_1.png",
   "background": "#F29EBD"
@@ -11,7 +12,8 @@
   "id": "2",
   "name": "San Mateo 3",
   "address": "Peticiones: (1) 544 66 10",
-  "youtube": "https://www.youtube.com/channel/UCAktlGjgvmJFPMKWQlg1xfw",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCAktlGjgvmJFPMKWQlg1xfw",
+  "youtubeChannelID": "UCAktlGjgvmJFPMKWQlg1xfw",
   "broadcast": "De Lunes a Viernes a las 6PM",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_2.png",
   "background": "#FCD667"
@@ -20,7 +22,8 @@
   "id": "3",
   "name": "Santa Teresita Del Niño Jesús",
   "address": "Peticiones: 312 272 57 07",
-  "youtube": "https://www.youtube.com/c/IglesiaSantaTeresitaBogot%C3%A1/videos",
+  "youtube": "https://www.youtube.com/channel/UCGR-bTXHO37LmSRSfjTi0Wg",
+  "youtubeChannelID": "UCGR-bTXHO37LmSRSfjTi0Wg",
   "broadcast": "TBD",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_3.png",
   "background": "#69C2D3"
@@ -29,7 +32,8 @@
   "id": "4",
   "name": "Santa Marta Arquidiócesis de Bogotá",
   "address": "Peticiones: (1) 217 61 27",
-  "youtube": "https://www.youtube.com/channel/UCaPLgDK7Rh8sm8_7zlYIzsQ",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCaPLgDK7Rh8sm8_7zlYIzsQ",
+  "youtubeChannelID": "UCaPLgDK7Rh8sm8_7zlYIzsQ",
   "broadcast": "Lunes a Sábado a las 6PM, y Domingo a las 10AM y 12PM",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_4.png",
   "background": "#E98E65"
@@ -38,7 +42,8 @@
   "id": "5",
   "name": "Santa María Soledad Torres Acosta Bogotá",
   "address": "Peticiones: 312 424 11 24",
-  "youtube": "https://www.youtube.com/channel/UCn-dgrFysxapjFGhQl4zc1g/videos",
+  "youtube": "https://www.youtube.com/channel/UCn-dgrFysxapjFGhQl4zc1g",
+  "youtubeChannelID": "UCn-dgrFysxapjFGhQl4zc1g",
   "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_5.png",
   "background": "#7AB7B7"
@@ -47,7 +52,8 @@
   "id": "6",
   "name": "Ntra. Sra. De Chiquinquira P. Dominicos",
   "address": "Peticiones: (1) 248 84 50",
-  "youtube": "https://www.youtube.com/channel/UCxMjUZvPvp4dx2tx5Iyfl9g/videos",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCxMjUZvPvp4dx2tx5Iyfl9g",
+  "youtubeChannelID": "UCxMjUZvPvp4dx2tx5Iyfl9g",
   "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_6.png",
   "background": "#F0765D"
@@ -56,7 +62,8 @@
   "id": "7",
   "name": "Cristo Rey Bogotá",
   "address": "Peticiones: (1) 257 91 44",
-  "youtube": "https://www.youtube.com/c/ParroquiadeCristoReyBogot%C3%A1/videos",
+  "youtube": "https://www.youtube.com/channel/UCZhsfqbRo9cDA2huYo0BMwA",
+  "youtubeChannelID": "UCZhsfqbRo9cDA2huYo0BMwA",
   "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_7.png",
   "background": "#87D56C"
@@ -65,7 +72,8 @@
   "id": "8",
   "name": "San Ignacio de Loyola - Quiroga Bogotá",
   "address": "Peticiones: (1) 209 16 50",
-  "youtube": "https://www.youtube.com/channel/UCjCdEyLafDkpWFWoKqwSakg/videos",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCjCdEyLafDkpWFWoKqwSakg",
+  "youtubeChannelID": "UCjCdEyLafDkpWFWoKqwSakg",
   "broadcast": "Todos los dias a las 6PM",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_8.png",
   "background": "#BED9DA"
@@ -74,7 +82,8 @@
   "id": "9",
   "name": "San Pío X Frailes Carmelitas Descalzos",
   "address": "Peticiones: 320 950 42 04",
-  "youtube": "https://www.youtube.com/channel/UC7PWuapbCy6zL6K_G_VDquQ/videos",
+  "youtube": "https://www.youtube.com/channel/UC7PWuapbCy6zL6K_G_VDquQ",
+  "youtubeChannelID": "UC7PWuapbCy6zL6K_G_VDquQ",
   "broadcast": "Todos los dias a las 6:30PM",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_9.png",
   "background": "#E4C4E7"
@@ -83,7 +92,8 @@
   "id": "10",
   "name": "Nuestra Señora de las Lajas",
   "address": "Peticiones: (1) 351 23 69",
-  "youtube": "https://www.youtube.com/channel/UCnhvo_zJfd6qjUdvHxVVbQg/videos",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCnhvo_zJfd6qjUdvHxVVbQg",
+  "youtubeChannelID": "UCnhvo_zJfd6qjUdvHxVVbQg",
   "broadcast": "Todos los dias al medio día",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_10.png",
   "background": "#FEE77B"  
@@ -92,7 +102,8 @@
   "id": "11",
   "name": "Padre Cucho",
   "address": "Peticiones: 310 245 94 60",
-  "youtube": "https://www.youtube.com/c/PadreChuchoCol/videos",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCD5qf2P9HG933jzxZh7adUA",
+  "youtubeChannelID": "UCD5qf2P9HG933jzxZh7adUA",
   "broadcast": "Todos los dias a las 5AM",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_11.png",
   "background": "#E4754F"  
@@ -101,7 +112,8 @@
   "id": "12",
   "name": "Vatican news",
   "address": "  ",
-  "youtube": "https://www.youtube.com/c/VaticanNewsES/videos",
+  "youtubeChannelUrl": "https://www.youtube.com/c/VaticanNewsES/videos",
+  "youtubeChannelID": "UCJLxjVq3oUDinmOKPqDqjMA",
   "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_12.png",
   "background": "#3AADFB"  
