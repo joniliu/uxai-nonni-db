@@ -6,7 +6,7 @@
   "phone": "+5716313135",
   "whatsapp": " ",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_3.png",
-  "background": "#F9C032"
+  "background": "#0C6DCF"
 },
 {
   "id": "2",
@@ -16,7 +16,7 @@
   "phone": "+573115632278",
   "whatsapp": "573115632278",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_2.png",
-  "background": "#E87751"
+  "background": "#4AA04F"
 },
 {
   "id": "3",
@@ -26,7 +26,7 @@
   "phone": "+573213538226",
   "whatsapp": "573213538226",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_1.png",
-  "background": "#9AC5A3"
+  "background": "#D45866"
 },
 {
   "id": "4",
@@ -36,7 +36,7 @@
   "phone": "+5713155939",
   "whatsapp": "-",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_4.png",
-  "background": "#E78548"
+  "background": "#48ACB7"
 },
 {
   "id": "5",
@@ -46,7 +46,7 @@
   "phone": "+573118382541",
   "whatsapp": "573118382541",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_5.png",
-  "background": "#D5BCFE"
+  "background": "#759F19"
 },
 {
   "id": "6",
@@ -66,7 +66,7 @@
   "phone": "+5712214025",
   "whatsapp": "-",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_7.png",
-  "background": "#E78548"
+  "background": "#EC622F"
 },
 {
   "id": "8",
@@ -76,7 +76,7 @@
   "phone": "+573209747368",
   "whatsapp": "573209747368",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_8.png",
-  "background": "#C14E47"
+  "background": "#ECE15C"
 },
 {
   "id": "9",
@@ -86,7 +86,7 @@
   "phone": "+573132654691",
   "whatsapp": "573132654691",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_9.png",
-  "background": "#C79C52"
+  "background": "#BE4036"
 },
 {
   "id": "10",
@@ -96,7 +96,7 @@
   "phone": "+5712219278",
   "whatsapp": "5712219278",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_10.png",
-  "background": "#E89346"
+  "background": "#5C4FA3"
 },
 {
   "id": "11",
@@ -106,7 +106,7 @@
   "phone": "+5713150826",
   "whatsapp": "  ",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_11.png",
-  "background": "#E78548"
+  "background": "#50A0CB"
 },
 {
   "id": "12",
@@ -116,7 +116,7 @@
   "phone": "+5713158255",
   "whatsapp": "  ",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_12.png",
-  "background": "#87C4BB"
+  "background": "#5EAE99"
 },
 {
   "id": "13",
@@ -126,7 +126,7 @@
   "phone": "+573127790775",
   "whatsapp": "573127790775",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_13.png",
-  "background": "#87D56C"
+  "background": "#D3D455"
 },
 {
   "id": "14",
@@ -136,7 +136,7 @@
   "phone": "+573138019058",
   "whatsapp": "573138019058",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_14.png",
-  "background": "#BEA4C0"
+  "background": "#44214B"
 },
 {
   "id": "15",
@@ -146,7 +146,7 @@
   "phone": "+573108637287",
   "whatsapp": "573108637287",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_15.png",
-  "background": "#F0765D"
+  "background": "#D98045"
 },
 {
   "id": "16",
@@ -156,5 +156,5 @@
   "phone": "+573223932999",
   "whatsapp": "573223932999",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_16.png",
-  "background": "#FFE859"
+  "background": "#1C4586"
 }]
