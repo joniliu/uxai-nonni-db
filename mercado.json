@@ -169,12 +169,52 @@
  "background": "#759F19"
 },
 {
- "id": "47",
- "name":  "La Melona Panaderia y cafeteria",
- "category": "Panaderia",
- "address":  "4.655637, -74.101532",
- "phone": "5713151944",
- "whatsapp": "573204228982",
- "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_47 .png",
+ "id": "18",
+ "name":  "Valeria",
+ "category": "Cigarreria ",
+ "address":  "4.648235, -74.090936",
+ "phone": "573108581493",
+ "whatsapp": "573108581493",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_18.png",
+ "background": "#C4B8FA"
+},
+{
+ "id": "19",
+ "name":  "San Jorge",
+ "category": "Supermercado",
+ "address":  "4.649092, -74.093273",
+ "phone": "5712212088",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_19.png",
  "background": "#84CED7"
+},
+{
+ "id": "20",
+ "name":  "Los Urapanes",
+ "category": "Cigarreria ",
+ "address":  "4.650056, -74.092728",
+ "phone": "573112515464",
+ "whatsapp": "573112515464",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_20.png",
+ "background": "#FFCED7"
+},
+{
+ "id": "21",
+ "name":  "Cigarreria Pablo VI",
+ "category": "Cigarreria ",
+ "address":  "4.652260, -74.089766",
+ "phone": "5713151416",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_21.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "22",
+ "name":  "Cigarreria Nuevo Club",
+ "category": "Cigarreria ",
+ "address":  "4.651211, -74.089187",
+ "phone": "573112312226",
+ "whatsapp": "573112312226",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_22.png",
+ "background": "#B4FF9B"
 }]
