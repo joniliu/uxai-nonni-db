@@ -219,12 +219,12 @@
  "background": "#B4FF9B"
 },
 { 
- "id": " 23 ", 
- "name": " Distrilac Supermercado ", 
- "category": " Supermercado ", 
- "address": " 4.654486, -74.086885 ", 
- "phone": " 573214482597 ", 
- "whatsapp": " 573214482597 ", 
- "image": " https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_23.png ", 
- "background": " #759F19 ", 
+ "id": "23", 
+ "name": "Distrilac Supermercado", 
+ "category": "Supermercado", 
+ "address": "4.654486, -74.086885", 
+ "phone": "573214482597", 
+ "whatsapp": "573214482597", 
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_23.png", 
+ "background": "#759F19", 
 }]
