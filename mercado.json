@@ -167,4 +167,14 @@
  "whatsapp": "573132072409",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_17.png",
  "background": "#759F19"
+},
+{
+ "id": "47",
+ "name":  "La Melona Panaderia y cafeteria",
+ "category": "Panaderia",
+ "address":  "4.655637, -74.101532",
+ "phone": "5713151944",
+ "whatsapp": "573204228982",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_47 .png",
+ "background": "#759F19"
 }]
