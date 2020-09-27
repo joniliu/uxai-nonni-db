@@ -157,4 +157,14 @@
   "whatsapp": "573223932999",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_16.png",
   "background": "#3EC9E9"
+},
+{
+ "id": "17",
+ "name":  "Supermercado 57",
+ "category": "Supermercado",
+ "address":  "4.647081, -74.092495",
+ "phone": "573132072409",
+ "whatsapp": "573132072409",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_17.png",
+ "background": "#759F19"
 }]
