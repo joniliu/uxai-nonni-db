@@ -217,4 +217,34 @@
  "whatsapp": "573112312226",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_22.png",
  "background": "#B4FF9B"
+},
+{
+ "id": "23",
+ "name": "Distrilac Supermercado",
+ "category": "Supermercado",
+ "address": "4.654486, -74.086885",
+ "phone": "573214482597",
+ "whatsapp": "573214482597",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_23.png",
+ "background": "#B4FF9B"
+},
+{
+ "id": "24",
+ "name": "Cigarreria Mundial",
+ "category": "Cigarreria ",
+ "address": "4.649264, -74.086023",
+ "phone": "573138038567",
+ "whatsapp": "573138038567",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_24.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "25",
+ "name": "Cigarreria donde Eduard",
+ "category": "Cigarreria ",
+ "address": "4.650262, -74.087406",
+ "phone": "5716966727",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_25.png",
+ "background": "#FFFF9B"
 }]
