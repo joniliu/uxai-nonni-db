@@ -247,4 +247,14 @@
  "whatsapp": "-",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_25.png",
  "background": "#FFFF9B"
+},
+{
+ "id": "26",
+ "name": "Olmedo",
+ "category": "Panaderia",
+ "address": "4.648381, -74.088433",
+ "phone": "5712214340",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_26.png",
+ "background": "#FFCED7"
 }]
