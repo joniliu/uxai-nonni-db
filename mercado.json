@@ -707,4 +707,304 @@
  "whatsapp": "-",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_70.png",
  "background": "#FFA7A8"
+},
+{
+ "id": "71",
+ "name": "Drogueria y tienda naturista",
+ "category": "Drogueria",
+ "address": "4.633114, -74.089603",
+ "phone": "-",
+ "whatsapp": "573138611607",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_71.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "72",
+ "name": "Cigarreria y licores don miguel",
+ "category": "Cigarreria ",
+ "address": "4.632613, -74.086220",
+ "phone": "5712447435",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_72.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "73",
+ "name": "Hipermercado San Jorge",
+ "category": "Supermercado",
+ "address": "4.629275, -74.087693",
+ "phone": "5712440911",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_73.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "74",
+ "name": "Panaderia la Toscana",
+ "category": "Panaderia",
+ "address": "4.629474, -74.087789",
+ "phone": "5712442788",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_74.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "75",
+ "name": "Panaderia y Pasteleria Villa Suiza",
+ "category": "Panaderia",
+ "address": "4.629221, -74.087474",
+ "phone": "5714753983",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_75.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "76",
+ "name": "Multimercado Buitrago",
+ "category": "Supermercado",
+ "address": "4.630738, -74.085058",
+ "phone": "5712440908",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_76.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "77",
+ "name": "Supermercado La 38",
+ "category": "Supermercado",
+ "address": "4.630448, -74.085306",
+ "phone": "5712446354",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_77.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "78",
+ "name": "Supermercado Calima",
+ "category": "Supermercado",
+ "address": "4.628173, -74.084956",
+ "phone": "-",
+ "whatsapp": "573223446180",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_78.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "79",
+ "name": "Cigarreria central JD",
+ "category": "Cigarreria ",
+ "address": "4.627830, -74.084529",
+ "phone": "-",
+ "whatsapp": "573124255636",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_79.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "80",
+ "name": "Panaderia y cafeteria la Americana",
+ "category": "Panaderia",
+ "address": "4.627859, -74.084483",
+ "phone": "-",
+ "whatsapp": "573232427532",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_80.png",
+ "background": "#FFA7A8"
+},
+{
+ "id": "81",
+ "name": "Pasteleria Milhojas",
+ "category": "Panaderia",
+ "address": "4.628240, -74.082902",
+ "phone": "-",
+ "whatsapp": "573124180947",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_81.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "82",
+ "name": "Mercatodo la 25",
+ "category": "Supermercado",
+ "address": "4.627241, -74.082616",
+ "phone": "5712699228",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_82.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "83",
+ "name": "Supermercado el paisano",
+ "category": "Supermercado",
+ "address": "4.631609, -74.081488",
+ "phone": "5712685582",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_83.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "84",
+ "name": "Cigarreria Real",
+ "category": "Cigarreria ",
+ "address": "4.630636, -74.082423",
+ "phone": "-",
+ "whatsapp": "573138599969",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_84.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "85",
+ "name": "Drogueria Unirebaja",
+ "category": "Drogueria",
+ "address": "4.630413, -74.082286",
+ "phone": "5713409092",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_85.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "86",
+ "name": "Minimercado Buitrago",
+ "category": "Supermercado",
+ "address": "4.630610, -74.082012",
+ "phone": "5712684215",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_86.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "87",
+ "name": "Panaderia Teusaquillo",
+ "category": "Panaderia",
+ "address": "4.618595, -74.072500",
+ "phone": "5717689813",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_87.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "88",
+ "name": "Drogueria Suarez",
+ "category": "Drogueria",
+ "address": "4.618339, -74.072258",
+ "phone": "-",
+ "whatsapp": "573132254212",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_88.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "89",
+ "name": "Tienda Donde Pipe",
+ "category": "Supermercado",
+ "address": "4.620115, -74.073805",
+ "phone": "-",
+ "whatsapp": "573203081908",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_89.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "90",
+ "name": "Danico",
+ "category": "Supermercado",
+ "address": "4.621598, -74.076509",
+ "phone": "-",
+ "whatsapp": "573046738843",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_90.png",
+ "background": "#FFA7A8"
+},
+{
+ "id": "91",
+ "name": "Divino Pan",
+ "category": "Panaderia",
+ "address": "4.622069, -74.071709",
+ "phone": "5714632874",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_91.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "92",
+ "name": "Cigarreria Teusaquillo",
+ "category": "Cigarreria ",
+ "address": "4.622224, -74.070641",
+ "phone": "5712857684",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_92.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "93",
+ "name": "Panaderia Karen",
+ "category": "Panaderia",
+ "address": "4.623832, -74.073573",
+ "phone": "nan",
+ "whatsapp": "573108738663",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_93.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "94",
+ "name": "Panaderia Little Biscuits",
+ "category": "Panaderia",
+ "address": "4.623641, -74.073871",
+ "phone": "5712858901",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_94.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "95",
+ "name": "Panaderia Ricuras",
+ "category": "Panaderia",
+ "address": "4.623973, -74.074300",
+ "phone": "-",
+ "whatsapp": "573102118784",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_95.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "96",
+ "name": "Almacen España",
+ "category": "Supermercado",
+ "address": "4.624111, -74.075346",
+ "phone": "5712453964",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_96.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "97",
+ "name": "Merca&Fruver",
+ "category": "Supermercado",
+ "address": "4.624147, -74.075715",
+ "phone": "5712877660",
+ "whatsapp": "573209374025",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_97.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "98",
+ "name": "Droguería Dijen",
+ "category": "Drogueria",
+ "address": "4.624017, -74.075885",
+ "phone": "5714876632",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_98.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "99",
+ "name": "Cafeteria y Cigarreria Sarita",
+ "category": "Cigarreria ",
+ "address": "4.624241, -74.076171",
+ "phone": "-",
+ "whatsapp": "573107592192",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_99.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "100",
+ "name": "Cafeteria, Minimercado JC",
+ "category": "Supermercado",
+ "address": "4.623303, -74.075881",
+ "phone": "5712458884",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_100.png",
+ "background": "#FFA7A8"
 }]
