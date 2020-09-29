@@ -119,14 +119,14 @@
   "background": "#5EAE99"
 },
 {
-  "id": "13",
-  "name": "Supermarket JJ",
-  "address": "4.643197, -74.086989",
-  "category": "Supermercado",
-  "phone": "+573127790775",
-  "whatsapp": "573127790775",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_13.png",
-  "background": "#D3D455"
+ "id": "13",
+ "name": "Tienda Rafael Núñez V Etapa D",
+ "category": "Supermercado",
+ "address": "4.643197, -74.086989",
+ "phone": "5713157309",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_13.png",
+ "background": "#759F19"
 },
 {
   "id": "14",
@@ -170,9 +170,9 @@
 },
 {
  "id": "18",
- "name":  "Valeria",
+ "name": "Valeria",
  "category": "Cigarreria ",
- "address":  "4.648235, -74.090936",
+ "address": "4.648106, -74.090953",
  "phone": "573108581493",
  "whatsapp": "573108581493",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_18.png",
@@ -200,11 +200,11 @@
 },
 {
  "id": "21",
- "name":  "Cigarreria Pablo VI",
- "category": "Cigarreria ",
- "address":  "4.652260, -74.089766",
- "phone": "5713151416",
- "whatsapp": "-",
+ "name": "Merkados Olimpia",
+ "category": "Supermercado",
+ "address": "4.651244, -74.089139",
+ "phone": "5712214088",
+ "whatsapp": "573125931048",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_21.png",
  "background": "#FFFF9B"
 },
@@ -262,7 +262,7 @@
  "id": "27",
  "name": "El súper pan",
  "category": "Panaderia",
- "address": "4.647362, -74.092854",
+ "address": "4.646933, -74.092707",
  "phone": "5713151368",
  "whatsapp": "-",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_27.png",
@@ -440,11 +440,11 @@
 },
 {
  "id": "44",
- "name": "Droguería Monserrat de la 39",
- "category": "Drogueria",
- "address": "4.644953, -74.087414",
- "phone": "5713156935",
- "whatsapp": "-",
+ "name": "La tienda de Julieta",
+ "category": "Supermercado",
+ "address": "4.645026, -74.088383",
+ "phone": "-",
+ "whatsapp": "573197085724",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_44.png",
  "background": "#13FEEE"
 },
