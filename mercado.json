@@ -1367,4 +1367,14 @@
  "whatsapp": "-",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_137.png",
  "background": "#CBC4FF"
+},
+{
+ "id": "138",
+ "name": "El progreso de la 50",
+ "category": "Supermercado",
+ "address": "4.660263, -74.079407", 
+ "phone": "5716603631",
+ "whatsapp": "573135718425",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_137.png",
+ "background": "#CBC4FF"
 }]
