@@ -117,4 +117,14 @@
   "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_12.png",
   "background": "#3AADFB"  
+},
+{
+  "id": "13",
+  "name": "Catedral de Buenos Aires",
+  "address": "0, 0",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCFdZW8ErwLyAX-qMaN14qig",
+  "youtubeChannelID": "UCFdZW8ErwLyAX-qMaN14qig",
+  "broadcast": "Tiempos varian",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_13.png",
+  "background": "#F29EBD"  
 }]
