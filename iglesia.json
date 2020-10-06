@@ -24,7 +24,7 @@
   "address": "4.609389, -74.094584",
   "youtube": "https://www.youtube.com/channel/UCGR-bTXHO37LmSRSfjTi0Wg",
   "youtubeChannelID": "UCGR-bTXHO37LmSRSfjTi0Wg",
-  "broadcast": "TBD",
+  "broadcast": "Lunes a Sabado 6:30pm; Domingos 11 am",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_3.png",
   "background": "#69C2D3"
 }, 
@@ -44,7 +44,7 @@
   "address": "4.606059, -74.103252",
   "youtube": "https://www.youtube.com/channel/UCn-dgrFysxapjFGhQl4zc1g",
   "youtubeChannelID": "UCn-dgrFysxapjFGhQl4zc1g",
-  "broadcast": "Tiempos varian",
+  "broadcast": "Lunes a Sabado 6 pm, y Domingos 8am, 10 am y 12pm",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_5.png",
   "background": "#7AB7B7"
 }, 
@@ -54,7 +54,7 @@
   "address": "4.638507, -74.065321",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCxMjUZvPvp4dx2tx5Iyfl9g",
   "youtubeChannelID": "UCxMjUZvPvp4dx2tx5Iyfl9g",
-  "broadcast": "Tiempos varian",
+  "broadcast": "Lunes a Sabado 7am, 12pm y 6pm, y Domingos 10 am, 12pm y 6pm",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_6.png",
   "background": "#F0765D"
 },
@@ -84,7 +84,7 @@
   "address": "4.625325, -74.138864",
   "youtube": "https://www.youtube.com/channel/UC7PWuapbCy6zL6K_G_VDquQ",
   "youtubeChannelID": "UC7PWuapbCy6zL6K_G_VDquQ",
-  "broadcast": "Todos los dias a las 6:30PM",
+  "broadcast": "Lunes a Sabados 7am, 6:30pm, y Domingo 7:30am, 10am, 12pm, 5pm, 7pm",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_9.png",
   "background": "#E4C4E7"
 },
