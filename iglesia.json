@@ -4,7 +4,7 @@
   "address": "4.648284, -74.082246",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCXKPPgL1PPGT2tjDCRCmaIg",
   "youtubeChannelID": "UCXKPPgL1PPGT2tjDCRCmaIg",
-  "broadcast": "Lun a Sab 6:30am, 8am y 6pm; Domingos 8am, 10am, 12pm, 5pm y 7 pm",
+  "broadcast": "Lun a Sab 6:30am, y Domingos 12pm",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_1.png",
   "background": "#F29EBD"
 },
@@ -34,7 +34,7 @@
   "address": "4.639582, -74.072497",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCaPLgDK7Rh8sm8_7zlYIzsQ",
   "youtubeChannelID": "UCaPLgDK7Rh8sm8_7zlYIzsQ",
-  "broadcast": "Lunes a Sábado a las 6PM, y Domingo a las 10AM y 12PM",
+  "broadcast": "Lunes a Sábado a las 6PM, y Domingo a las 12PM",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_4.png",
   "background": "#E98E65"
 },
@@ -44,7 +44,7 @@
   "address": "4.606059, -74.103252",
   "youtube": "https://www.youtube.com/channel/UCn-dgrFysxapjFGhQl4zc1g",
   "youtubeChannelID": "UCn-dgrFysxapjFGhQl4zc1g",
-  "broadcast": "Lunes a Sabado 6 pm, y Domingos 8am, 10 am y 12pm",
+  "broadcast": "Lunes a Sabado 6 pm, y Domingos 12pm",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_5.png",
   "background": "#7AB7B7"
 }, 
@@ -54,7 +54,7 @@
   "address": "4.638507, -74.065321",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCxMjUZvPvp4dx2tx5Iyfl9g",
   "youtubeChannelID": "UCxMjUZvPvp4dx2tx5Iyfl9g",
-  "broadcast": "Lunes a Sabado 7am, 12pm y 6pm, y Domingos 10 am, 12pm y 6pm",
+  "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_6.png",
   "background": "#F0765D"
 },
@@ -84,7 +84,7 @@
   "address": "4.625325, -74.138864",
   "youtube": "https://www.youtube.com/channel/UC7PWuapbCy6zL6K_G_VDquQ",
   "youtubeChannelID": "UC7PWuapbCy6zL6K_G_VDquQ",
-  "broadcast": "Lunes a Sabados 7am, 6:30pm, y Domingo 7:30am, 10am, 12pm, 5pm, 7pm",
+  "broadcast": "Lunes a Sabados 6:30pm, y Domingo 10am",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_9.png",
   "background": "#E4C4E7"
 },
