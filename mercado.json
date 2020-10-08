@@ -1377,4 +1377,14 @@
  "whatsapp": "-",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_138.png",
  "background": "#CBC4FF"
+},
+{
+ "id": "139",
+ "name": "Merlot",
+ "category": "Cigarreria",
+ "address": "4.649896, -74.059965",
+ "phone": "+5713384697",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_139.png",
+ "background": "#FFAE79"
 }]
