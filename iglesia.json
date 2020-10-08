@@ -140,12 +140,24 @@
   "background": "#84CED7"  
 },
 {
-  "id": "15",
-  "name": "Basílica Santuario del Señor de Monserrate",
-  "address": "4.605696, -74.055647",
-  "youtubeChannelUrl": "https://www.facebook.com/santuariodemonserrate/videos",
+  "id": "19",
+  "name": "Parroquia San Alfonso",
+  "address": "4.625984, -74.077862",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCYWouNjOeZOEm-LA5-WzrFw",
+  "youtubeChannelID": "UCYWouNjOeZOEm-LA5-WzrFw",
   "broadcast": "Tiempos varian",
-  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_15.png",
-  "phone": "+5717560450",
-  "background": "#FFCED7"  
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_19.png",
+  "phone": "+5712442037",
+  "background": "#13FEEE"  
+},
+{
+  "id": "20",
+  "name": "Basílica de Lourdes Bogotá",
+  "address": "4.649367, -74.063075",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCjF1ee5KZlFVhXxWA80fWhQ",
+  "youtubeChannelID": "UCjF1ee5KZlFVhXxWA80fWhQ",
+  "broadcast": "Tiempos varian",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_20.png",
+  "phone": "+5712497033",
+  "background": "#AEFFAB"  
 }]
