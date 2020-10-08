@@ -127,4 +127,15 @@
   "broadcast": "Tiempos varian",
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_13.png",
   "background": "#F29EBD"  
+},
+{
+  "id": "14",
+  "name": "Parroquia San Alfonso",
+  "address": "4.628111, -74.077868",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCtITJs3EqdJ6cArB71wiKog",
+  "youtubeChannelID": "UCtITJs3EqdJ6cArB71wiKog",
+  "broadcast": "Tiempos varian",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_14.png",
+  "phone": "+573217601987",
+  "background": "#84CED7"  
 }]
