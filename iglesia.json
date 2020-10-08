@@ -138,4 +138,14 @@
   "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_14.png",
   "phone": "+573217601987",
   "background": "#84CED7"  
+},
+{
+  "id": "15",
+  "name": "Basílica Santuario del Señor de Monserrate",
+  "address": "4.605696, -74.055647",
+  "youtubeChannelUrl": "https://www.facebook.com/santuariodemonserrate/videos",
+  "broadcast": "Tiempos varian",
+  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/iglesia/iglesia_15.png",
+  "phone": "+5717560450",
+  "background": "#FFCED7"  
 }]
