@@ -1380,11 +1380,421 @@
 },
 {
  "id": "139",
+ "name": "Cigarreria Irlanda",
+ "category": "Cigarreria ",
+ "address": "4.684521, -74.046739",
+ "phone": "+5712148947",
+ "whatsapp": "573138012396",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_139.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "140",
+ "name": "Cigarreria Cosmos",
+ "category": "Cigarreria ",
+ "address": "4.686464, -74.054293",
+ "phone": "+5712575991",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_140.png",
+ "background": "#FFA7A8"
+},
+{
+ "id": "141",
+ "name": "Restaurante - Panaderia 106",
+ "category": "Panaderia",
+ "address": "4.687289, -74.038958",
+ "phone": "+5712155993",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_141.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "142",
+ "name": "Cigarreria Don John",
+ "category": "Cigarreria ",
+ "address": "4.687817, -74.039749",
+ "phone": "+5715203501",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_142.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "143",
+ "name": "Golconda Panaderia",
+ "category": "Panaderia",
+ "address": "4.687575, -74.034492",
+ "phone": "+5712145954",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_143.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "144",
+ "name": "Droguería Azteca",
+ "category": "Drogueria",
+ "address": "4.689050, -74.039563",
+ "phone": "+5716290152",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_144.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "145",
+ "name": "Los costeños",
+ "category": "Supermercado",
+ "address": "4.688973, -74.039485",
+ "phone": "+5716196493",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_145.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "146",
+ "name": "Cigarreria Finlandia",
+ "category": "Cigarreria ",
+ "address": "4.689279, -74.040935",
+ "phone": "+5712138182",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_146.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "147",
+ "name": "El diamante",
+ "category": "Supermercado",
+ "address": "4.688494, -74.041688",
+ "phone": "+5712146146",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_147.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "148",
+ "name": "Cigarreria Supermercado Quilmes",
+ "category": "Supermercado",
+ "address": "4.688383, -74.041901",
+ "phone": "+5712146289",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_148.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "149",
+ "name": "Farma 24, Drogueria minimarket",
+ "category": "Drogueria",
+ "address": "4.687681, -74.043010",
+ "phone": "+5717044650",
+ "whatsapp": "573125927785",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_149.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "150",
+ "name": "Cigarreria la 104",
+ "category": "Cigarreria ",
+ "address": "4.687541, -74.043314",
+ "phone": "+5712155257",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_150.png",
+ "background": "#FFA7A8"
+},
+{
+ "id": "151",
+ "name": "Drogueria San patricio (colsubsidio)",
+ "category": "Drogueria",
+ "address": "4.692230, -74.045131",
+ "phone": "+5713444000",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_151.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "152",
+ "name": "Farmacopolis Droguería",
+ "category": "Drogueria",
+ "address": "4.691102, -74.045431",
+ "phone": "+5713575162",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_152.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "153",
+ "name": "Cigarreria los robles",
+ "category": "Cigarreria ",
+ "address": "4.691222, -74.045724",
+ "phone": "+5712147380",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_153.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "154",
+ "name": "Mercados el otro mundo",
+ "category": "Cigarreria ",
+ "address": "4.693614, -74.047464",
+ "phone": "+5712143259",
+ "whatsapp": "573115236537",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_154.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "155",
+ "name": "Cigarreria Islandia",
+ "category": "Cigarreria ",
+ "address": "4.695504, -74.043630",
+ "phone": "+5712145602",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_155.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "156",
+ "name": "Cigarreria Napoles",
+ "category": "Cigarreria ",
+ "address": "4.695761, -74.052128",
+ "phone": "+5716375845",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_156.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "157",
+ "name": "Chicopolis",
+ "category": "Supermercado",
+ "address": "4.695529, -74.053099",
+ "phone": "+5717048342",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_157.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "158",
+ "name": "Charcuteria Superior",
+ "category": "Cigarreria ",
+ "address": "4.699548, -74.053812",
+ "phone": "+5712134610",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_158.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "159",
+ "name": "Charcuteria y licores Acapulco",
+ "category": "Cigarreria ",
+ "address": "4.699160, -74.052133",
+ "phone": "+5714838099",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_159.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "160",
+ "name": "Drogueria Santa Barbara (colsubsiio)",
+ "category": "Drogueria",
+ "address": "4.704800, -74.051387",
+ "phone": "+5712156568",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_160.png",
+ "background": "#FFA7A8"
+},
+{
+ "id": "161",
+ "name": "Drogureria Alemana 81",
+ "category": "Drogueria",
+ "address": "4.704758, -74.049538",
+ "phone": "+573132629298",
+ "whatsapp": "573132629298",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_161.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "162",
+ "name": "Cigarrerai Delifast",
+ "category": "Cigarreria ",
+ "address": "4.704633, -74.049268",
+ "phone": "+5716196297",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_162.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "163",
+ "name": "Panaderia y pasteleria San Nicolas",
+ "category": "Panaderia",
+ "address": "4.696256, -74.028811",
+ "phone": "+5716199530",
+ "whatsapp": "573166900034",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_163.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "164",
+ "name": "Panaderia Frutissima",
+ "category": "Panaderia",
+ "address": "4.696294, -74.032634",
+ "phone": "+5712133147",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_164.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "165",
+ "name": "Farmacenter Premium",
+ "category": "Drogueria",
+ "address": "4.696772, -74.033679",
+ "phone": "+5716378600",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_165.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "166",
+ "name": "Hiperdrogeria Unicentro",
+ "category": "Drogueria",
+ "address": "4.698023, -74.036142",
+ "phone": "+5716373193",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_166.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "167",
+ "name": "Panaderis Panissimo",
+ "category": "Panaderia",
+ "address": "4.698023, -74.036110",
+ "phone": "+5716200796",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_167.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "168",
+ "name": "Pan La Casona",
+ "category": "Panaderia",
+ "address": "4.698133, -74.036399",
+ "phone": "+5716375859",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_168.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "169",
+ "name": "Cigarreria London",
+ "category": "Cigarreria ",
+ "address": "4.698023, -74.036339",
+ "phone": "+5712150390",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_169.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "170",
+ "name": "Tiendas Napolitana",
+ "category": "Supermercado",
+ "address": "4.698166, -74.036766",
+ "phone": "+5712134441",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_170.png",
+ "background": "#FFA7A8"
+},
+{
+ "id": "171",
+ "name": "Drogueria Famihogar",
+ "category": "Drogueria",
+ "address": "4.698515, -74.038710",
+ "phone": "+5716191011",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_171.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "172",
+ "name": "Cigarreria Royal",
+ "category": "Cigarreria ",
+ "address": "4.698530, -74.039446",
+ "phone": "+5716199767",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_172.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "173",
+ "name": "Drogueria La rebaja",
+ "category": "Drogueria",
+ "address": "4.698530, -74.039446",
+ "phone": "+5716010209",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_173.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "174",
+ "name": "Supermercados Mi Campo",
+ "category": "Supermercado",
+ "address": "4.698587, -74.039758",
+ "phone": "+5716376767",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_174.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "175",
+ "name": "Farmatodo Calle 119",
+ "category": "Drogueria",
+ "address": "4.698546, -74.040119",
+ "phone": "+5717469000",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_175.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "176",
+ "name": "San Patricio Panadería y Pastelería",
+ "category": "Panaderia",
+ "address": "4.698699, -74.042702",
+ "phone": "+5712136054",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_176.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "177",
+ "name": "Droguería Visión 2000",
+ "category": "Drogueria",
+ "address": "4.695601, -74.038832",
+ "phone": "+5716200714",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_177.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "178",
+ "name": "D'todo Cigarreria",
+ "category": "Cigarreria ",
+ "address": "4.695601, -74.038832",
+ "phone": "+5716200858",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_178.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "179",
+ "name": "Cigarreria Royal",
+ "category": "Cigarreria ",
+ "address": "4.695777, -74.039870",
+ "phone": "+5712130736",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_179.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "180",
  "name": "Merlot",
  "category": "Cigarreria",
  "address": "4.649896, -74.059965",
  "phone": "+5713384697",
  "whatsapp": "-",
- "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_139.png",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_180.png",
  "background": "#FFAE79"
 }]
