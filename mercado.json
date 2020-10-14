@@ -1797,4 +1797,414 @@
  "whatsapp": "-",
  "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_180.png",
  "background": "#FFAE79"
+},
+{
+ "id": "181",
+ "name": "Colombia farma",
+ "category": "Drogueria",
+ "address": "4.696417, -74.042905",
+ "phone": "+5717435800",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_181.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "182",
+ "name": "La Farmacia Homeopática",
+ "category": "Drogueria",
+ "address": "4.696861, -74.045232",
+ "phone": "+5716192253",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_182.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "183",
+ "name": "Charcuteria Superior",
+ "category": "Cigarreria ",
+ "address": "4.699368, -74.053693",
+ "phone": "+5712134610",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_183.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "184",
+ "name": "Charcuteria Acapulco",
+ "category": "Cigarreria ",
+ "address": "4.699106, -74.052268",
+ "phone": "+5714838099",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_184.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "185",
+ "name": "Hiperdroguería Farmisol",
+ "category": "Drogueria",
+ "address": "4.699325, -74.053390",
+ "phone": "+5712149206",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_185.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "186",
+ "name": "Tienda Market",
+ "category": "Supermercado",
+ "address": "4.699693, -74.050989",
+ "phone": "+5717043900",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_186.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "187",
+ "name": "Cigarrería Punto 122",
+ "category": "Cigarreria ",
+ "address": "4.702070, -74.049606",
+ "phone": "+5716949951",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_187.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "188",
+ "name": "Droguería Farmacosto",
+ "category": "Drogueria",
+ "address": "4.702150, -74.049647",
+ "phone": "+5713001279",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_188.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "189",
+ "name": "Surtifruver Calle 123",
+ "category": "Supermercado",
+ "address": "4.703209, -74.049375",
+ "phone": "+5714891010",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_189.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "190",
+ "name": "Farmacenter Minimarket Usaquen",
+ "category": "Drogueria",
+ "address": "4.701937, -74.029107",
+ "phone": "+5717625727",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_190.png",
+ "background": "#FFA7A8"
+},
+{
+ "id": "191",
+ "name": "Charcuteria Sevilla",
+ "category": "Cigarreria ",
+ "address": "4.703697, -74.030211",
+ "phone": "+5716266279",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_191.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "192",
+ "name": "Droguería Bella Suiza",
+ "category": "Drogueria",
+ "address": "4.704590, -74.029074",
+ "phone": "+5712582814",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_192.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "193",
+ "name": "Cigarreria Suiza 129",
+ "category": "Cigarreria ",
+ "address": "4.704590, -74.029074",
+ "phone": "+5712741703",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_193.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "194",
+ "name": "Mercados Samaca",
+ "category": "Supermercado",
+ "address": "4.703604, -74.026453",
+ "phone": "+5716154992",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_194.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "195",
+ "name": "Megafruver 127",
+ "category": "Supermercado",
+ "address": "4.703485, -74.026165",
+ "phone": "+5716273519",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_195.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "196",
+ "name": "Licoreria y Cigarreria la Rivera",
+ "category": "Cigarreria ",
+ "address": "4.703947, -74.025851",
+ "phone": "+5716149828",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_196.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "197",
+ "name": "Supermercado La placita",
+ "category": "Supermercado",
+ "address": "4.704229, -74.026435",
+ "phone": "+5716562225",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_197.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "198",
+ "name": "Frutiver 1A",
+ "category": "Supermercado",
+ "address": "4.703581, -74.032297",
+ "phone": "+5716949505",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_198.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "199",
+ "name": "Cigarreria Portal Suizo",
+ "category": "Cigarreria ",
+ "address": "4.704156, -74.032157",
+ "phone": "+5712581440",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_199.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "200",
+ "name": "Cigarreria las Dos R.R",
+ "category": "Cigarreria ",
+ "address": "4.711246, -74.032910",
+ "phone": "+5715231128",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_200.png",
+ "background": "#FFA7A8"
+},
+{
+ "id": "201",
+ "name": "Cigarreria D'D",
+ "category": "Cigarreria ",
+ "address": "4.711403, -74.032793",
+ "phone": "+5716273323",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_201.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "202",
+ "name": "Cigarreria Suiza Express",
+ "category": "Cigarreria ",
+ "address": "4.709270, -74.030941",
+ "phone": "+5716143338",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_202.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "203",
+ "name": "Drogueria Discovery",
+ "category": "Drogueria",
+ "address": "4.709270, -74.030941",
+ "phone": "+5719278161",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_203.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "204",
+ "name": "Cigarreria Sprite",
+ "category": "Cigarreria ",
+ "address": "4.709149, -74.031114",
+ "phone": "+5712590012",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_204.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "205",
+ "name": "Supermercado Playmarket",
+ "category": "Supermercado",
+ "address": "4.708217, -74.031019",
+ "phone": "+5716149710",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_205.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "206",
+ "name": "Cigarrería Recodo del Country",
+ "category": "Cigarreria ",
+ "address": "4.708319, -74.035158",
+ "phone": "+5716332716",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_206.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "207",
+ "name": "Fruver Super Olímpico",
+ "category": "Supermercado",
+ "address": "4.717037, -74.047250",
+ "phone": "+5712588818",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_207.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "208",
+ "name": "Supertiendas Punto 1",
+ "category": "Supermercado",
+ "address": "4.717647, -74.047604",
+ "phone": "+5716480416",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_208.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "209",
+ "name": "Multimarket La Calleja",
+ "category": "Supermercado",
+ "address": "4.710805, -74.049016",
+ "phone": "+5712169498",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_209.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "210",
+ "name": "La Despensa Express",
+ "category": "Supermercado",
+ "address": "4.711029, -74.047904",
+ "phone": "+5714768484",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_210.png",
+ "background": "#FFA7A8"
+},
+{
+ "id": "211",
+ "name": "Farmacenter Santa Coloma",
+ "category": "Drogueria",
+ "address": "4.716778, -74.051756",
+ "phone": "+5716494922",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_211.png",
+ "background": "#FFFF9B"
+},
+{
+ "id": "212",
+ "name": "Supermercado Mercacoloma",
+ "category": "Supermercado",
+ "address": "4.716522, -74.051696",
+ "phone": "+5712741185",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_212.png",
+ "background": "#FFAE79"
+},
+{
+ "id": "213",
+ "name": "Farmatodo Cedritos I",
+ "category": "Drogueria",
+ "address": "4.723012, -74.046126",
+ "phone": "+5717469000",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_213.png",
+ "background": "#AEFF77"
+},
+{
+ "id": "214",
+ "name": "La Rebaja Drogueria",
+ "category": "Drogueria",
+ "address": "4.720763, -74.046418",
+ "phone": "+5716703192",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_214.png",
+ "background": "#13FEEE"
+},
+{
+ "id": "215",
+ "name": "Supermercado Fruver express",
+ "category": "Supermercado",
+ "address": "4.719761, -74.046629",
+ "phone": "+5716147538",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_215.png",
+ "background": "#AEFFAB"
+},
+{
+ "id": "216",
+ "name": "Panadería Frespan",
+ "category": "Panaderia",
+ "address": "4.720884, -74.046355",
+ "phone": "+5712585421",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_216.png",
+ "background": "#FFC4FF"
+},
+{
+ "id": "217",
+ "name": "Supermercado Country",
+ "category": "Supermercado",
+ "address": "4.716844, -74.044305",
+ "phone": "+5713145730",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_217.png",
+ "background": "#CBC4FF"
+},
+{
+ "id": "218",
+ "name": "Supermercado La Canasta Comunera",
+ "category": "Supermercado",
+ "address": "4.716197, -74.042057",
+ "phone": "+5712166877",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_218.png",
+ "background": "#9AC4FF"
+},
+{
+ "id": "219",
+ "name": "Mil Delicias",
+ "category": "Panaderia",
+ "address": "4.721530, -74.042432",
+ "phone": "+5716268899",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_219.png",
+ "background": "#FFFF07"
+},
+{
+ "id": "220",
+ "name": "Cigarreria y Licoreria Altamar",
+ "category": "Cigarreria ",
+ "address": "4.721574, -74.042311",
+ "phone": "+5716097441",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_220.png",
+ "background": "#FFA7A8"
+},
+{
+ "id": "221",
+ "name": "Cigarreria La Verde",
+ "category": "Cigarreria ",
+ "address": "4.718995, -74.037965",
+ "phone": "+5718064945",
+ "whatsapp": "-",
+ "image": "https://raw.githubusercontent.com/joniliu/uxai-nonni-db/master/mercado/mercado_221.png",
+ "background": "#FFFF9B"
 }]
