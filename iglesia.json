@@ -1,7 +1,8 @@
 [{
   "id": "1",
   "name": "Corpus Christi",
-  "address": "4.648284, -74.082246",
+  "address": "",
+  "latLong": "4.648284, -74.082246",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCXKPPgL1PPGT2tjDCRCmaIg",
   "youtubeChannelID": "UCXKPPgL1PPGT2tjDCRCmaIg",
   "broadcast": "Lun a Sab 6:30am, y Domingos 12pm",
@@ -11,7 +12,8 @@
 {
   "id": "2",
   "name": "Parroquia San Mateo",
-  "address": "4.677496, -74.078733",
+  "address": "",
+  "latLong": "4.677496, -74.078733",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCAktlGjgvmJFPMKWQlg1xfw",
   "youtubeChannelID": "UCAktlGjgvmJFPMKWQlg1xfw",
   "broadcast": "De Lunes a Viernes a las 6PM",
@@ -21,7 +23,8 @@
 {
   "id": "3",
   "name": "Santa Teresita Del Niño Jesús",
-  "address": "4.609389, -74.094584",
+  "address": "",
+  "latLong": "4.609389, -74.094584",
   "youtube": "https://www.youtube.com/channel/UCGR-bTXHO37LmSRSfjTi0Wg",
   "youtubeChannelID": "UCGR-bTXHO37LmSRSfjTi0Wg",
   "broadcast": "Lunes a Sabado 6:30pm; Domingos 11 am",
@@ -31,7 +34,8 @@
 {
   "id": "4",
   "name": "Santa Marta Arquidiócesis de Bogotá",
-  "address": "4.639582, -74.072497",
+  "address": "",
+  "latLong": "4.639582, -74.072497",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCaPLgDK7Rh8sm8_7zlYIzsQ",
   "youtubeChannelID": "UCaPLgDK7Rh8sm8_7zlYIzsQ",
   "broadcast": "Lunes a Sábado a las 6PM, y Domingo a las 12PM",
@@ -41,7 +45,8 @@
 {
   "id": "5",
   "name": "Santa María Soledad Torres Acosta Bogotá",
-  "address": "4.606059, -74.103252",
+  "address": "",
+  "latLong": "4.606059, -74.103252",
   "youtube": "https://www.youtube.com/channel/UCn-dgrFysxapjFGhQl4zc1g",
   "youtubeChannelID": "UCn-dgrFysxapjFGhQl4zc1g",
   "broadcast": "Lunes a Sabado 6 pm, y Domingos 12pm",
@@ -51,7 +56,8 @@
 {
   "id": "6",
   "name": "Ntra. Sra. De Chiquinquira P. Dominicos",
-  "address": "4.638507, -74.065321",
+  "address": "",
+  "latLong": "4.638507, -74.065321",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCxMjUZvPvp4dx2tx5Iyfl9g",
   "youtubeChannelID": "UCxMjUZvPvp4dx2tx5Iyfl9g",
   "broadcast": "Tiempos varian",
@@ -61,7 +67,8 @@
 {
   "id": "7",
   "name": "Cristo Rey Bogotá",
-  "address": "4.684403, -74.050938",
+  "address": "",
+  "latLong": "4.684403, -74.050938",
   "youtube": "https://www.youtube.com/channel/UCZhsfqbRo9cDA2huYo0BMwA",
   "youtubeChannelID": "UCZhsfqbRo9cDA2huYo0BMwA",
   "broadcast": "Tiempos varian",
@@ -71,7 +78,8 @@
 {
   "id": "8",
   "name": "San Ignacio de Loyola - Quiroga Bogotá",
-  "address": "4.581706, -74.113847",
+  "address": "",
+  "latLong": "4.581706, -74.113847",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCjCdEyLafDkpWFWoKqwSakg",
   "youtubeChannelID": "UCjCdEyLafDkpWFWoKqwSakg",
   "broadcast": "Todos los dias a las 6PM",
@@ -81,7 +89,8 @@
 {
   "id": "9",
   "name": "San Pío X Frailes Carmelitas Descalzos",
-  "address": "4.625325, -74.138864",
+  "address": "",
+  "latLong": "4.625325, -74.138864",
   "youtube": "https://www.youtube.com/channel/UC7PWuapbCy6zL6K_G_VDquQ",
   "youtubeChannelID": "UC7PWuapbCy6zL6K_G_VDquQ",
   "broadcast": "Lunes a Sabados 6:30pm, y Domingo 10am",
@@ -91,7 +100,8 @@
 {
   "id": "10",
   "name": "Nuestra Señora de las Lajas",
-  "address": "4.599435, -74.101331",
+  "address": "",
+  "latLong": "4.599435, -74.101331",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCnhvo_zJfd6qjUdvHxVVbQg",
   "youtubeChannelID": "UCnhvo_zJfd6qjUdvHxVVbQg",
   "broadcast": "Todos los dias al medio día",
@@ -101,7 +111,8 @@
 {
   "id": "11",
   "name": "Padre Cucho",
-  "address": "4.637881, -74.141697",
+  "address": "",
+  "latLong": "4.637881, -74.141697",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCD5qf2P9HG933jzxZh7adUA",
   "youtubeChannelID": "UCD5qf2P9HG933jzxZh7adUA",
   "broadcast": "Todos los dias a las 5AM",
@@ -111,7 +122,8 @@
 {
   "id": "12",
   "name": "Vatican news",
-  "address": "0, 0",
+  "address": "",
+  "latLong": "0, 0",
   "youtubeChannelUrl": "https://www.youtube.com/c/VaticanNewsES/videos",
   "youtubeChannelID": "UCJLxjVq3oUDinmOKPqDqjMA",
   "broadcast": "Tiempos varian",
@@ -121,7 +133,8 @@
 {
   "id": "13",
   "name": "Catedral de Buenos Aires",
-  "address": "0, 0",
+  "address": "",
+  "latLong": "0, 0",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCFdZW8ErwLyAX-qMaN14qig",
   "youtubeChannelID": "UCFdZW8ErwLyAX-qMaN14qig",
   "broadcast": "Tiempos varian",
@@ -131,7 +144,8 @@
 {
   "id": "14",
   "name": "Parroquia San Alfonso",
-  "address": "4.628111, -74.077868",
+  "address": "",
+  "latLong": "4.628111, -74.077868",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCtITJs3EqdJ6cArB71wiKog",
   "youtubeChannelID": "UCtITJs3EqdJ6cArB71wiKog",
   "broadcast": "Tiempos varian",
@@ -142,7 +156,8 @@
 {
   "id": "19",
   "name": "Capilla Nuestra Señora del Perpetuo Socorro ",
-  "address": "4.625984, -74.077862",
+  "address": "",
+  "latLong": "4.625984, -74.077862",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCYWouNjOeZOEm-LA5-WzrFw",
   "youtubeChannelID": "UCYWouNjOeZOEm-LA5-WzrFw",
   "broadcast": "Tiempos varian",
@@ -153,7 +168,8 @@
 {
   "id": "20",
   "name": "Basílica de Lourdes Bogotá",
-  "address": "4.649367, -74.063075",
+  "address": "",
+  "latLong": "4.649367, -74.063075",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCjF1ee5KZlFVhXxWA80fWhQ",
   "youtubeChannelID": "UCjF1ee5KZlFVhXxWA80fWhQ",
   "broadcast": "Tiempos varian",
